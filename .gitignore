@@ -1,0 +1,12 @@
+*.jpg
+*.jpeg
+*.png
+*.tif
+*.zip
+*.pt
+*.pth
+*.onnx
+runs/
+dataset/
+images/
+__pycache__/

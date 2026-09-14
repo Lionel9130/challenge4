@@ -1,0 +1,10 @@
+path: C:/Users/whatever/Desktop/challenge4/dataset_yolo26_single
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 1
+
+names:
+  0: support

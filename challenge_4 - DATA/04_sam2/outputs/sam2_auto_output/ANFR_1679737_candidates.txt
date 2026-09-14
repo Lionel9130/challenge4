@@ -1,0 +1,13 @@
+1 bbox=(215,233,271,280) iou=0.9062 stability=0.9303 area_ratio=0.001012
+2 bbox=(473,0,1023,412) iou=0.9375 stability=0.8701 area_ratio=0.042591
+3 bbox=(0,66,357,416) iou=0.9023 stability=0.8901 area_ratio=0.010940
+4 bbox=(234,0,1023,414) iou=0.8750 stability=0.8885 area_ratio=0.044417
+5 bbox=(346,446,391,464) iou=0.8047 stability=0.9185 area_ratio=0.000656
+6 bbox=(722,656,917,1023) iou=0.8438 stability=0.8626 area_ratio=0.016397
+7 bbox=(603,8,627,25) iou=0.8125 stability=0.8822 area_ratio=0.000292
+8 bbox=(1004,977,1023,1023) iou=0.7656 stability=0.8914 area_ratio=0.000354
+9 bbox=(1007,996,1023,1023) iou=0.7148 stability=0.9293 area_ratio=0.000277
+10 bbox=(130,177,147,194) iou=0.7305 stability=0.8907 area_ratio=0.000228
+11 bbox=(882,821,918,852) iou=0.7266 stability=0.8828 area_ratio=0.000725
+12 bbox=(1019,624,1023,640) iou=0.7383 stability=0.8636 area_ratio=0.000057
+13 bbox=(1006,960,1023,1023) iou=0.6680 stability=0.9149 area_ratio=0.000589

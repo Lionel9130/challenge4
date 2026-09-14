@@ -1,0 +1,14 @@
+path: C:/Users/whatever/Desktop/challenge4/dataset_yolo26
+
+train: images/train
+val: images/val
+test: images/test
+
+nc: 5
+
+names:
+  0: pylone
+  1: mat
+  2: batiment
+  3: chateau_eau
+  4: silo
