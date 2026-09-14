@@ -1,0 +1,7681 @@
+[
+ {
+  "id": "1015219",
+  "fichier": "site_1015219.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.729,
+    "box": [
+     0.5294,
+     0.5759,
+     0.0827,
+     0.1009
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1038691",
+  "fichier": "site_1038691.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.859,
+    "box": [
+     0.4532,
+     0.4664,
+     0.0856,
+     0.0607
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1038695",
+  "fichier": "site_1038695.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1038699",
+  "fichier": "site_1038699.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.894,
+    "box": [
+     0.4273,
+     0.5498,
+     0.105,
+     0.0791
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1038701",
+  "fichier": "site_1038701.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.808,
+    "box": [
+     0.4871,
+     0.3949,
+     0.2611,
+     0.1615
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1042804",
+  "fichier": "site_1042804.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.711,
+    "box": [
+     0.426,
+     0.4949,
+     0.1747,
+     0.1219
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1043200",
+  "fichier": "site_1043200.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.681,
+    "box": [
+     0.4677,
+     0.6389,
+     0.0307,
+     0.0275
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1043345",
+  "fichier": "site_1043345.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.814,
+    "box": [
+     0.5467,
+     0.5751,
+     0.1948,
+     0.1353
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1043970",
+  "fichier": "site_1043970.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.814,
+    "box": [
+     0.7427,
+     0.4663,
+     0.0582,
+     0.0614
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.761,
+    "box": [
+     0.7282,
+     0.1938,
+     0.2039,
+     0.1285
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1254705",
+  "fichier": "site_1254705.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1254725",
+  "fichier": "site_1254725.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.81,
+    "box": [
+     0.3378,
+     0.4492,
+     0.0533,
+     0.0418
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1254729",
+  "fichier": "site_1254729.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.41,
+    "box": [
+     0.3787,
+     0.5234,
+     0.0457,
+     0.0443
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1262999",
+  "fichier": "site_1262999.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.685,
+    "box": [
+     0.5777,
+     0.9684,
+     0.0546,
+     0.0415
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1272378",
+  "fichier": "site_1272378.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.548,
+    "box": [
+     0.4663,
+     0.3207,
+     0.024,
+     0.0313
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.271,
+    "box": [
+     0.3417,
+     0.9308,
+     0.054,
+     0.0412
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1272380",
+  "fichier": "site_1272380.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1272400",
+  "fichier": "site_1272400.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1272406",
+  "fichier": "site_1272406.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1273067",
+  "fichier": "site_1273067.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1273069",
+  "fichier": "site_1273069.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1273071",
+  "fichier": "site_1273071.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1286710",
+  "fichier": "site_1286710.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.474,
+    "box": [
+     0.3779,
+     0.531,
+     0.1737,
+     0.1451
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1286712",
+  "fichier": "site_1286712.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.568,
+    "box": [
+     0.5837,
+     0.4154,
+     0.1455,
+     0.1089
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.356,
+    "box": [
+     0.5863,
+     0.4192,
+     0.1451,
+     0.1096
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1286714",
+  "fichier": "site_1286714.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.57,
+    "box": [
+     0.3379,
+     0.5691,
+     0.1087,
+     0.0858
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1286718",
+  "fichier": "site_1286718.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.459,
+    "box": [
+     0.6326,
+     0.6548,
+     0.0298,
+     0.0219
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1319335",
+  "fichier": "site_1319335.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.408,
+    "box": [
+     0.8523,
+     0.1078,
+     0.065,
+     0.0551
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1441313",
+  "fichier": "site_1441313.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.771,
+    "box": [
+     0.4282,
+     0.4943,
+     0.0834,
+     0.0609
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1443578",
+  "fichier": "site_1443578.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.782,
+    "box": [
+     0.3979,
+     0.4153,
+     0.1,
+     0.084
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1457641",
+  "fichier": "site_1457641.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.91,
+    "box": [
+     0.61,
+     0.349,
+     0.1528,
+     0.0824
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.632,
+    "box": [
+     0.817,
+     0.7039,
+     0.1309,
+     0.0692
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1465324",
+  "fichier": "site_1465324.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.416,
+    "box": [
+     0.6962,
+     0.3254,
+     0.1575,
+     0.1576
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1478890",
+  "fichier": "site_1478890.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.744,
+    "box": [
+     0.5396,
+     0.4045,
+     0.0747,
+     0.0618
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1505732",
+  "fichier": "site_1505732.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.916,
+    "box": [
+     0.4507,
+     0.3544,
+     0.1452,
+     0.0907
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1529358",
+  "fichier": "site_1529358.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1535144",
+  "fichier": "site_1535144.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.73,
+    "box": [
+     0.5505,
+     0.8318,
+     0.0626,
+     0.0422
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.71,
+    "box": [
+     0.5907,
+     0.3886,
+     0.0923,
+     0.0696
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1541825",
+  "fichier": "site_1541825.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.682,
+    "box": [
+     0.3876,
+     0.6209,
+     0.0744,
+     0.0833
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1559758",
+  "fichier": "site_1559758.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.673,
+    "box": [
+     0.4546,
+     0.4401,
+     0.1535,
+     0.1239
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1561812",
+  "fichier": "site_1561812.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.769,
+    "box": [
+     0.9572,
+     0.4864,
+     0.0857,
+     0.1296
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.691,
+    "box": [
+     0.8364,
+     0.4918,
+     0.1444,
+     0.134
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.6,
+    "box": [
+     0.6689,
+     0.4697,
+     0.0579,
+     0.0668
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1565850",
+  "fichier": "site_1565850.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.771,
+    "box": [
+     0.2851,
+     0.5623,
+     0.0909,
+     0.055
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1578588",
+  "fichier": "site_1578588.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.561,
+    "box": [
+     0.5545,
+     0.4098,
+     0.1665,
+     0.1372
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1591738",
+  "fichier": "site_1591738.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.794,
+    "box": [
+     0.2105,
+     0.5974,
+     0.1276,
+     0.0976
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.783,
+    "box": [
+     0.3528,
+     0.5248,
+     0.0879,
+     0.0447
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1591749",
+  "fichier": "site_1591749.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.688,
+    "box": [
+     0.7684,
+     0.3992,
+     0.0702,
+     0.0894
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.627,
+    "box": [
+     0.612,
+     0.5795,
+     0.042,
+     0.0459
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1591785",
+  "fichier": "site_1591785.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.847,
+    "box": [
+     0.4675,
+     0.6029,
+     0.1303,
+     0.1022
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1592270",
+  "fichier": "site_1592270.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.823,
+    "box": [
+     0.5074,
+     0.4,
+     0.1846,
+     0.1383
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1597515",
+  "fichier": "site_1597515.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.897,
+    "box": [
+     0.4856,
+     0.5721,
+     0.0695,
+     0.071
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1603117",
+  "fichier": "site_1603117.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.631,
+    "box": [
+     0.3646,
+     0.2821,
+     0.1088,
+     0.0867
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1607071",
+  "fichier": "site_1607071.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.779,
+    "box": [
+     0.1749,
+     0.5866,
+     0.0418,
+     0.0349
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1658755",
+  "fichier": "site_1658755.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.807,
+    "box": [
+     0.4842,
+     0.6016,
+     0.2651,
+     0.1861
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.275,
+    "box": [
+     0.0084,
+     0.2994,
+     0.0167,
+     0.0332
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1666244",
+  "fichier": "site_1666244.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.833,
+    "box": [
+     0.475,
+     0.5476,
+     0.1187,
+     0.0911
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1666276",
+  "fichier": "site_1666276.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.695,
+    "box": [
+     0.4164,
+     0.5921,
+     0.0807,
+     0.0579
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1671504",
+  "fichier": "site_1671504.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.461,
+    "box": [
+     0.7301,
+     0.0805,
+     0.0422,
+     0.0291
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1672659",
+  "fichier": "site_1672659.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.764,
+    "box": [
+     0.0815,
+     0.3409,
+     0.156,
+     0.1298
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.447,
+    "box": [
+     0.45,
+     0.87,
+     0.0724,
+     0.0703
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.423,
+    "box": [
+     0.4503,
+     0.8696,
+     0.0752,
+     0.071
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1674811",
+  "fichier": "site_1674811.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.942,
+    "box": [
+     0.4655,
+     0.3579,
+     0.1161,
+     0.0907
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1685848",
+  "fichier": "site_1685848.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.463,
+    "box": [
+     0.3631,
+     0.4506,
+     0.2216,
+     0.1427
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.265,
+    "box": [
+     0.9769,
+     0.7801,
+     0.0463,
+     0.1267
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1689816",
+  "fichier": "site_1689816.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.564,
+    "box": [
+     0.3877,
+     0.6025,
+     0.1515,
+     0.0979
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1705032",
+  "fichier": "site_1705032.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.928,
+    "box": [
+     0.5329,
+     0.5988,
+     0.1131,
+     0.1047
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1705171",
+  "fichier": "site_1705171.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.727,
+    "box": [
+     0.6578,
+     0.5806,
+     0.0648,
+     0.0459
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1707437",
+  "fichier": "site_1707437.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.717,
+    "box": [
+     0.5328,
+     0.3877,
+     0.0982,
+     0.0816
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1708093",
+  "fichier": "site_1708093.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.789,
+    "box": [
+     0.5687,
+     0.4111,
+     0.0648,
+     0.0428
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1708724",
+  "fichier": "site_1708724.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.93,
+    "box": [
+     0.4866,
+     0.2872,
+     0.1466,
+     0.077
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1709330",
+  "fichier": "site_1709330.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.864,
+    "box": [
+     0.4819,
+     0.7661,
+     0.1303,
+     0.0649
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1709399",
+  "fichier": "site_1709399.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.684,
+    "box": [
+     0.4943,
+     0.5605,
+     0.0995,
+     0.0574
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1710782",
+  "fichier": "site_1710782.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.755,
+    "box": [
+     0.3958,
+     0.5038,
+     0.1212,
+     0.0655
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1711116",
+  "fichier": "site_1711116.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.622,
+    "box": [
+     0.5401,
+     0.5845,
+     0.0575,
+     0.0404
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1747547",
+  "fichier": "site_1747547.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.848,
+    "box": [
+     0.5792,
+     0.464,
+     0.0913,
+     0.0827
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1755731",
+  "fichier": "site_1755731.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.819,
+    "box": [
+     0.3908,
+     0.4462,
+     0.1049,
+     0.0679
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1756789",
+  "fichier": "site_1756789.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.61,
+    "box": [
+     0.6204,
+     0.5217,
+     0.0855,
+     0.0751
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.482,
+    "box": [
+     0.1018,
+     0.2282,
+     0.0582,
+     0.0587
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757123",
+  "fichier": "site_1757123.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.656,
+    "box": [
+     0.4558,
+     0.3937,
+     0.1616,
+     0.1304
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.474,
+    "box": [
+     0.4546,
+     0.3928,
+     0.1695,
+     0.1297
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757131",
+  "fichier": "site_1757131.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.858,
+    "box": [
+     0.4021,
+     0.5795,
+     0.1053,
+     0.081
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.856,
+    "box": [
+     0.4808,
+     0.6399,
+     0.1019,
+     0.0805
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757137",
+  "fichier": "site_1757137.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.786,
+    "box": [
+     0.5002,
+     0.439,
+     0.1443,
+     0.1185
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757139",
+  "fichier": "site_1757139.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.824,
+    "box": [
+     0.8022,
+     0.455,
+     0.1282,
+     0.0558
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.526,
+    "box": [
+     0.5071,
+     0.5453,
+     0.1398,
+     0.123
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1762728",
+  "fichier": "site_1762728.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.709,
+    "box": [
+     0.3905,
+     0.4549,
+     0.0895,
+     0.0471
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1762732",
+  "fichier": "site_1762732.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.884,
+    "box": [
+     0.5424,
+     0.4902,
+     0.0872,
+     0.1069
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1763255",
+  "fichier": "site_1763255.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.799,
+    "box": [
+     0.5149,
+     0.7055,
+     0.1263,
+     0.0966
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.737,
+    "box": [
+     0.3836,
+     0.7708,
+     0.1524,
+     0.0973
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.663,
+    "box": [
+     0.4909,
+     0.6932,
+     0.1655,
+     0.1263
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1770439",
+  "fichier": "site_1770439.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.732,
+    "box": [
+     0.4107,
+     0.4341,
+     0.0789,
+     0.0592
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1772571",
+  "fichier": "site_1772571.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.684,
+    "box": [
+     0.6036,
+     0.5901,
+     0.0401,
+     0.0304
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1773187",
+  "fichier": "site_1773187.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.569,
+    "box": [
+     0.4754,
+     0.6186,
+     0.1082,
+     0.0661
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.504,
+    "box": [
+     0.4816,
+     0.6199,
+     0.0959,
+     0.0677
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1773302",
+  "fichier": "site_1773302.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.934,
+    "box": [
+     0.7693,
+     0.8689,
+     0.1367,
+     0.117
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.802,
+    "box": [
+     0.5687,
+     0.6342,
+     0.1629,
+     0.1255
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1774941",
+  "fichier": "site_1774941.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.812,
+    "box": [
+     0.4625,
+     0.3708,
+     0.1287,
+     0.0611
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.654,
+    "box": [
+     0.263,
+     0.5036,
+     0.1178,
+     0.0868
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1776422",
+  "fichier": "site_1776422.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.818,
+    "box": [
+     0.6596,
+     0.5592,
+     0.0484,
+     0.0458
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.674,
+    "box": [
+     0.5834,
+     0.5377,
+     0.0521,
+     0.044
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1799954",
+  "fichier": "site_1799954.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.295,
+    "box": [
+     0.3799,
+     0.568,
+     0.0757,
+     0.0621
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1801089",
+  "fichier": "site_1801089.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.619,
+    "box": [
+     0.4479,
+     0.6259,
+     0.0655,
+     0.0558
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.582,
+    "box": [
+     0.4617,
+     0.6254,
+     0.0947,
+     0.061
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1801114",
+  "fichier": "site_1801114.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.758,
+    "box": [
+     0.7757,
+     0.4088,
+     0.0882,
+     0.0745
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1808258",
+  "fichier": "site_1808258.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.585,
+    "box": [
+     0.4749,
+     0.5483,
+     0.0648,
+     0.066
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1811480",
+  "fichier": "site_1811480.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.709,
+    "box": [
+     0.6804,
+     0.6376,
+     0.0995,
+     0.0603
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1867035",
+  "fichier": "site_1867035.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.802,
+    "box": [
+     0.7693,
+     0.3599,
+     0.1097,
+     0.0762
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1873375",
+  "fichier": "site_1873375.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.772,
+    "box": [
+     0.5972,
+     0.4056,
+     0.0525,
+     0.044
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1875127",
+  "fichier": "site_1875127.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.443,
+    "box": [
+     0.6529,
+     0.1298,
+     0.062,
+     0.0448
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1898815",
+  "fichier": "site_1898815.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1912609",
+  "fichier": "site_1912609.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.745,
+    "box": [
+     0.5532,
+     0.5755,
+     0.1157,
+     0.0625
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1931266",
+  "fichier": "site_1931266.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.808,
+    "box": [
+     0.6518,
+     0.6985,
+     0.0433,
+     0.0335
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1953708",
+  "fichier": "site_1953708.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.837,
+    "box": [
+     0.4404,
+     0.398,
+     0.2019,
+     0.146
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.813,
+    "box": [
+     0.2085,
+     0.2621,
+     0.1917,
+     0.1421
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1960524",
+  "fichier": "site_1960524.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.713,
+    "box": [
+     0.5323,
+     0.5199,
+     0.1023,
+     0.0699
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1974535",
+  "fichier": "site_1974535.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2008847",
+  "fichier": "site_2008847.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2008851",
+  "fichier": "site_2008851.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.399,
+    "box": [
+     0.0987,
+     0.1252,
+     0.0672,
+     0.0485
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2008853",
+  "fichier": "site_2008853.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2008857",
+  "fichier": "site_2008857.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.552,
+    "box": [
+     0.5011,
+     0.8521,
+     0.0427,
+     0.0367
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.332,
+    "box": [
+     0.5024,
+     0.8518,
+     0.045,
+     0.036
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2008861",
+  "fichier": "site_2008861.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.336,
+    "box": [
+     0.8263,
+     0.1965,
+     0.031,
+     0.0253
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2008863",
+  "fichier": "site_2008863.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.323,
+    "box": [
+     0.4707,
+     0.2561,
+     0.0613,
+     0.0239
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2008865",
+  "fichier": "site_2008865.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.302,
+    "box": [
+     0.4871,
+     0.1711,
+     0.0655,
+     0.0698
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2009035",
+  "fichier": "site_2009035.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.762,
+    "box": [
+     0.511,
+     0.4965,
+     0.1516,
+     0.1116
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2009039",
+  "fichier": "site_2009039.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.565,
+    "box": [
+     0.4689,
+     0.5707,
+     0.1474,
+     0.1075
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.273,
+    "box": [
+     0.4695,
+     0.5724,
+     0.149,
+     0.11
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2009047",
+  "fichier": "site_2009047.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2009448",
+  "fichier": "site_2009448.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.753,
+    "box": [
+     0.5829,
+     0.4605,
+     0.0758,
+     0.0637
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2014772",
+  "fichier": "site_2014772.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.296,
+    "box": [
+     0.9731,
+     0.0595,
+     0.0538,
+     0.1191
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2014776",
+  "fichier": "site_2014776.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2014780",
+  "fichier": "site_2014780.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2034874",
+  "fichier": "site_2034874.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.867,
+    "box": [
+     0.6335,
+     0.3806,
+     0.1122,
+     0.0639
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2041331",
+  "fichier": "site_2041331.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2041343",
+  "fichier": "site_2041343.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.575,
+    "box": [
+     0.4811,
+     0.4807,
+     0.0934,
+     0.0508
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2042689",
+  "fichier": "site_2042689.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.877,
+    "box": [
+     0.4625,
+     0.6608,
+     0.0926,
+     0.0802
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2060086",
+  "fichier": "site_2060086.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2060377",
+  "fichier": "site_2060377.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.738,
+    "box": [
+     0.3643,
+     0.6434,
+     0.042,
+     0.0381
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2074257",
+  "fichier": "site_2074257.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2074722",
+  "fichier": "site_2074722.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.784,
+    "box": [
+     0.4029,
+     0.5326,
+     0.1015,
+     0.0706
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2078435",
+  "fichier": "site_2078435.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.9,
+    "box": [
+     0.4324,
+     0.5697,
+     0.0809,
+     0.1186
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2103344",
+  "fichier": "site_2103344.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.799,
+    "box": [
+     0.5472,
+     0.2981,
+     0.1931,
+     0.1363
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2104228",
+  "fichier": "site_2104228.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.677,
+    "box": [
+     0.1068,
+     0.4259,
+     0.0579,
+     0.0538
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2108475",
+  "fichier": "site_2108475.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.859,
+    "box": [
+     0.3765,
+     0.3111,
+     0.1468,
+     0.0759
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2113658",
+  "fichier": "site_2113658.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.752,
+    "box": [
+     0.5368,
+     0.3092,
+     0.0691,
+     0.0602
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.509,
+    "box": [
+     0.1446,
+     0.0601,
+     0.0274,
+     0.0317
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2124525",
+  "fichier": "site_2124525.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.934,
+    "box": [
+     0.8153,
+     0.537,
+     0.1662,
+     0.1311
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2140611",
+  "fichier": "site_2140611.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.562,
+    "box": [
+     0.4163,
+     0.4734,
+     0.1106,
+     0.0914
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.547,
+    "box": [
+     0.416,
+     0.471,
+     0.112,
+     0.0946
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2152953",
+  "fichier": "site_2152953.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.924,
+    "box": [
+     0.4906,
+     0.5941,
+     0.1426,
+     0.1211
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.795,
+    "box": [
+     0.2922,
+     0.3574,
+     0.1592,
+     0.1288
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2159765",
+  "fichier": "site_2159765.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.759,
+    "box": [
+     0.4765,
+     0.5252,
+     0.0721,
+     0.052
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2166448",
+  "fichier": "site_2166448.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.303,
+    "box": [
+     0.5088,
+     0.3787,
+     0.0589,
+     0.0687
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2176051",
+  "fichier": "site_2176051.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.639,
+    "box": [
+     0.4444,
+     0.6291,
+     0.0849,
+     0.0743
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2190702",
+  "fichier": "site_2190702.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2226477",
+  "fichier": "site_2226477.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.886,
+    "box": [
+     0.5231,
+     0.676,
+     0.1056,
+     0.1127
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2227157",
+  "fichier": "site_2227157.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2227194",
+  "fichier": "site_2227194.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.813,
+    "box": [
+     0.6516,
+     0.3442,
+     0.0959,
+     0.0665
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.581,
+    "box": [
+     0.3791,
+     0.4633,
+     0.0298,
+     0.0273
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2240113",
+  "fichier": "site_2240113.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.604,
+    "box": [
+     0.3809,
+     0.6227,
+     0.0493,
+     0.0368
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.534,
+    "box": [
+     0.3809,
+     0.621,
+     0.048,
+     0.0354
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.485,
+    "box": [
+     0.2331,
+     0.2785,
+     0.0528,
+     0.0341
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2274639",
+  "fichier": "site_2274639.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2298856",
+  "fichier": "site_2298856.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.795,
+    "box": [
+     0.7367,
+     0.4228,
+     0.0938,
+     0.0748
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2300790",
+  "fichier": "site_2300790.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.907,
+    "box": [
+     0.2201,
+     0.4519,
+     0.1272,
+     0.0845
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2311186",
+  "fichier": "site_2311186.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.495,
+    "box": [
+     0.4732,
+     0.5369,
+     0.2898,
+     0.2194
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2329836",
+  "fichier": "site_2329836.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.819,
+    "box": [
+     0.4091,
+     0.478,
+     0.2277,
+     0.1562
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2349074",
+  "fichier": "site_2349074.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.528,
+    "box": [
+     0.5238,
+     0.4734,
+     0.0764,
+     0.0489
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2367074",
+  "fichier": "site_2367074.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.905,
+    "box": [
+     0.335,
+     0.4914,
+     0.1101,
+     0.0822
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2406600",
+  "fichier": "site_2406600.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.925,
+    "box": [
+     0.6727,
+     0.4632,
+     0.1568,
+     0.1158
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2433953",
+  "fichier": "site_2433953.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.857,
+    "box": [
+     0.1087,
+     0.4809,
+     0.1089,
+     0.0821
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2443619",
+  "fichier": "site_2443619.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.681,
+    "box": [
+     0.56,
+     0.4828,
+     0.0473,
+     0.0406
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2460289",
+  "fichier": "site_2460289.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.312,
+    "box": [
+     0.6232,
+     0.5769,
+     0.1232,
+     0.0935
+    ]
+   }
+  ]
+ },
+ {
+  "id": "248102",
+  "fichier": "site_248102.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.762,
+    "box": [
+     0.6321,
+     0.6605,
+     0.1385,
+     0.1127
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.324,
+    "box": [
+     0.9299,
+     0.5663,
+     0.0656,
+     0.0435
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2482536",
+  "fichier": "site_2482536.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.605,
+    "box": [
+     0.6374,
+     0.5047,
+     0.0901,
+     0.0661
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2486325",
+  "fichier": "site_2486325.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.695,
+    "box": [
+     0.4896,
+     0.6782,
+     0.0713,
+     0.0956
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.473,
+    "box": [
+     0.3345,
+     0.8575,
+     0.0434,
+     0.0461
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2499750",
+  "fichier": "site_2499750.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.907,
+    "box": [
+     0.4479,
+     0.6705,
+     0.1064,
+     0.0982
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2511684",
+  "fichier": "site_2511684.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.848,
+    "box": [
+     0.5071,
+     0.4702,
+     0.1312,
+     0.0912
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2520405",
+  "fichier": "site_2520405.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.748,
+    "box": [
+     0.5763,
+     0.5201,
+     0.1399,
+     0.078
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2526036",
+  "fichier": "site_2526036.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.692,
+    "box": [
+     0.6373,
+     0.3642,
+     0.0877,
+     0.055
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.321,
+    "box": [
+     0.5856,
+     0.371,
+     0.0436,
+     0.046
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2540268",
+  "fichier": "site_2540268.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.764,
+    "box": [
+     0.4978,
+     0.6143,
+     0.0788,
+     0.0535
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2540960",
+  "fichier": "site_2540960.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.483,
+    "box": [
+     0.4,
+     0.5532,
+     0.1013,
+     0.0535
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2565543",
+  "fichier": "site_2565543.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.767,
+    "box": [
+     0.6488,
+     0.513,
+     0.09,
+     0.0643
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2581063",
+  "fichier": "site_2581063.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.305,
+    "box": [
+     0.385,
+     0.5647,
+     0.0885,
+     0.0931
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2599492",
+  "fichier": "site_2599492.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.49,
+    "box": [
+     0.5724,
+     0.3498,
+     0.0728,
+     0.0884
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2603452",
+  "fichier": "site_2603452.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.936,
+    "box": [
+     0.2998,
+     0.4447,
+     0.109,
+     0.1216
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2617404",
+  "fichier": "site_2617404.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.876,
+    "box": [
+     0.5263,
+     0.4485,
+     0.1209,
+     0.0975
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2621334",
+  "fichier": "site_2621334.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.763,
+    "box": [
+     0.5406,
+     0.4377,
+     0.0947,
+     0.0345
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2624521",
+  "fichier": "site_2624521.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.863,
+    "box": [
+     0.5462,
+     0.541,
+     0.1182,
+     0.0727
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2654913",
+  "fichier": "site_2654913.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.919,
+    "box": [
+     0.5813,
+     0.3699,
+     0.1105,
+     0.0891
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2671893",
+  "fichier": "site_2671893.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.864,
+    "box": [
+     0.5151,
+     0.3661,
+     0.1119,
+     0.0743
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2677660",
+  "fichier": "site_2677660.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2686657",
+  "fichier": "site_2686657.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.88,
+    "box": [
+     0.4951,
+     0.4099,
+     0.1569,
+     0.0941
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.44,
+    "box": [
+     0.4793,
+     0.4054,
+     0.1205,
+     0.0875
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2703462",
+  "fichier": "site_2703462.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.579,
+    "box": [
+     0.3604,
+     0.6132,
+     0.0708,
+     0.0475
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2705866",
+  "fichier": "site_2705866.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.862,
+    "box": [
+     0.6744,
+     0.4179,
+     0.1127,
+     0.0689
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2726007",
+  "fichier": "site_2726007.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.508,
+    "box": [
+     0.3577,
+     0.5428,
+     0.0533,
+     0.0916
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2738952",
+  "fichier": "site_2738952.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.534,
+    "box": [
+     0.5934,
+     0.6361,
+     0.0502,
+     0.0334
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2755568",
+  "fichier": "site_2755568.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.564,
+    "box": [
+     0.3891,
+     0.3554,
+     0.3263,
+     0.2148
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2773438",
+  "fichier": "site_2773438.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.867,
+    "box": [
+     0.7283,
+     0.7947,
+     0.117,
+     0.0768
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2779209",
+  "fichier": "site_2779209.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.755,
+    "box": [
+     0.4801,
+     0.3382,
+     0.0694,
+     0.0521
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2785663",
+  "fichier": "site_2785663.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.715,
+    "box": [
+     0.4195,
+     0.3767,
+     0.1058,
+     0.0999
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.639,
+    "box": [
+     0.4094,
+     0.3827,
+     0.0824,
+     0.0886
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2802263",
+  "fichier": "site_2802263.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.371,
+    "box": [
+     0.4577,
+     0.4343,
+     0.0486,
+     0.0408
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2803606",
+  "fichier": "site_2803606.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.774,
+    "box": [
+     0.379,
+     0.7084,
+     0.1171,
+     0.08
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2853026",
+  "fichier": "site_2853026.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2857165",
+  "fichier": "site_2857165.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.696,
+    "box": [
+     0.2831,
+     0.3023,
+     0.1432,
+     0.1094
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2857167",
+  "fichier": "site_2857167.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2869072",
+  "fichier": "site_2869072.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.881,
+    "box": [
+     0.3116,
+     0.5014,
+     0.1788,
+     0.0926
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2872048",
+  "fichier": "site_2872048.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.717,
+    "box": [
+     0.4237,
+     0.3616,
+     0.0918,
+     0.0666
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2878373",
+  "fichier": "site_2878373.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2886618",
+  "fichier": "site_2886618.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2889837",
+  "fichier": "site_2889837.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2897069",
+  "fichier": "site_2897069.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2906784",
+  "fichier": "site_2906784.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.361,
+    "box": [
+     0.0532,
+     0.7007,
+     0.0536,
+     0.0513
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2919476",
+  "fichier": "site_2919476.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2931390",
+  "fichier": "site_2931390.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.779,
+    "box": [
+     0.3606,
+     0.4803,
+     0.0928,
+     0.0896
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.406,
+    "box": [
+     0.3603,
+     0.4801,
+     0.0952,
+     0.0893
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2931392",
+  "fichier": "site_2931392.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.51,
+    "box": [
+     0.6569,
+     0.3296,
+     0.1169,
+     0.1297
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2931394",
+  "fichier": "site_2931394.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "29321",
+  "fichier": "site_29321.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.83,
+    "box": [
+     0.524,
+     0.4552,
+     0.1317,
+     0.0559
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.443,
+    "box": [
+     0.2308,
+     0.5444,
+     0.1402,
+     0.1216
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2932263",
+  "fichier": "site_2932263.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.519,
+    "box": [
+     0.6203,
+     0.4951,
+     0.0714,
+     0.097
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2943454",
+  "fichier": "site_2943454.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.711,
+    "box": [
+     0.5157,
+     0.4621,
+     0.097,
+     0.0621
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2947217",
+  "fichier": "site_2947217.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2961511",
+  "fichier": "site_2961511.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.773,
+    "box": [
+     0.4794,
+     0.4391,
+     0.0504,
+     0.0645
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2965890",
+  "fichier": "site_2965890.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.673,
+    "box": [
+     0.2225,
+     0.5882,
+     0.1138,
+     0.0588
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.503,
+    "box": [
+     0.961,
+     0.6043,
+     0.078,
+     0.0666
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2970012",
+  "fichier": "site_2970012.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.517,
+    "box": [
+     0.5839,
+     0.4349,
+     0.0684,
+     0.055
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.26,
+    "box": [
+     0.5813,
+     0.4338,
+     0.079,
+     0.0605
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2991725",
+  "fichier": "site_2991725.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.664,
+    "box": [
+     0.4888,
+     0.5319,
+     0.0596,
+     0.0472
+    ]
+   }
+  ]
+ },
+ {
+  "id": "307225",
+  "fichier": "site_307225.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.801,
+    "box": [
+     0.5447,
+     0.5072,
+     0.1358,
+     0.089
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.326,
+    "box": [
+     0.5425,
+     0.5049,
+     0.137,
+     0.0953
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3099229",
+  "fichier": "site_3099229.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.698,
+    "box": [
+     0.1631,
+     0.6889,
+     0.0579,
+     0.0422
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3105767",
+  "fichier": "site_3105767.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3163467",
+  "fichier": "site_3163467.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.394,
+    "box": [
+     0.6069,
+     0.6115,
+     0.0581,
+     0.032
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3168567",
+  "fichier": "site_3168567.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.627,
+    "box": [
+     0.4601,
+     0.6059,
+     0.0684,
+     0.0665
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3170864",
+  "fichier": "site_3170864.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.571,
+    "box": [
+     0.5904,
+     0.5086,
+     0.0416,
+     0.075
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3181021",
+  "fichier": "site_3181021.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.646,
+    "box": [
+     0.5244,
+     0.4112,
+     0.1032,
+     0.0788
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3195751",
+  "fichier": "site_3195751.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.671,
+    "box": [
+     0.3815,
+     0.3441,
+     0.0496,
+     0.0343
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3216895",
+  "fichier": "site_3216895.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3240235",
+  "fichier": "site_3240235.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3249576",
+  "fichier": "site_3249576.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.563,
+    "box": [
+     0.5876,
+     0.2314,
+     0.0463,
+     0.0775
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.306,
+    "box": [
+     0.5917,
+     0.2371,
+     0.0426,
+     0.0644
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3268040",
+  "fichier": "site_3268040.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3273462",
+  "fichier": "site_3273462.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3273485",
+  "fichier": "site_3273485.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.696,
+    "box": [
+     0.4409,
+     0.5955,
+     0.0603,
+     0.0425
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3292018",
+  "fichier": "site_3292018.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.862,
+    "box": [
+     0.4395,
+     0.5084,
+     0.112,
+     0.0343
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.3,
+    "box": [
+     0.4543,
+     0.5055,
+     0.0784,
+     0.0287
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3292170",
+  "fichier": "site_3292170.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.666,
+    "box": [
+     0.5711,
+     0.5604,
+     0.1057,
+     0.1189
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3295507",
+  "fichier": "site_3295507.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3304057",
+  "fichier": "site_3304057.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.572,
+    "box": [
+     0.7693,
+     0.7536,
+     0.1313,
+     0.0995
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.35,
+    "box": [
+     0.0646,
+     0.6467,
+     0.1277,
+     0.0943
+    ]
+   },
+   {
+    "classe": "batiment",
+    "conf": 0.349,
+    "box": [
+     0.7358,
+     0.7212,
+     0.394,
+     0.4001
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3305804",
+  "fichier": "site_3305804.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3305806",
+  "fichier": "site_3305806.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3305808",
+  "fichier": "site_3305808.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.794,
+    "box": [
+     0.6304,
+     0.2119,
+     0.0345,
+     0.0371
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.325,
+    "box": [
+     0.6135,
+     0.4606,
+     0.0422,
+     0.0375
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3308623",
+  "fichier": "site_3308623.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3310330",
+  "fichier": "site_3310330.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.873,
+    "box": [
+     0.3057,
+     0.2655,
+     0.073,
+     0.037
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.334,
+    "box": [
+     0.7776,
+     0.1985,
+     0.0536,
+     0.0397
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3310332",
+  "fichier": "site_3310332.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "3328740",
+  "fichier": "site_3328740.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "346506",
+  "fichier": "site_346506.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.775,
+    "box": [
+     0.3627,
+     0.4165,
+     0.1559,
+     0.1219
+    ]
+   }
+  ]
+ },
+ {
+  "id": "347806",
+  "fichier": "site_347806.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.689,
+    "box": [
+     0.5251,
+     0.4751,
+     0.0816,
+     0.0548
+    ]
+   }
+  ]
+ },
+ {
+  "id": "349485",
+  "fichier": "site_349485.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.836,
+    "box": [
+     0.2403,
+     0.6304,
+     0.2071,
+     0.1557
+    ]
+   }
+  ]
+ },
+ {
+  "id": "397996",
+  "fichier": "site_397996.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "438413",
+  "fichier": "site_438413.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.83,
+    "box": [
+     0.6081,
+     0.3898,
+     0.191,
+     0.1479
+    ]
+   }
+  ]
+ },
+ {
+  "id": "448746",
+  "fichier": "site_448746.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.32,
+    "box": [
+     0.6371,
+     0.5716,
+     0.1826,
+     0.111
+    ]
+   }
+  ]
+ },
+ {
+  "id": "449147",
+  "fichier": "site_449147.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "449387",
+  "fichier": "site_449387.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "450077",
+  "fichier": "site_450077.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.792,
+    "box": [
+     0.3549,
+     0.6854,
+     0.2224,
+     0.161
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.49,
+    "box": [
+     0.0137,
+     0.9592,
+     0.0274,
+     0.0319
+    ]
+   }
+  ]
+ },
+ {
+  "id": "450105",
+  "fichier": "site_450105.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.793,
+    "box": [
+     0.6366,
+     0.6327,
+     0.1699,
+     0.1875
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.701,
+    "box": [
+     0.4804,
+     0.4975,
+     0.026,
+     0.0246
+    ]
+   }
+  ]
+ },
+ {
+  "id": "450478",
+  "fichier": "site_450478.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.634,
+    "box": [
+     0.505,
+     0.6417,
+     0.0741,
+     0.0548
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.447,
+    "box": [
+     0.9582,
+     0.8982,
+     0.0351,
+     0.026
+    ]
+   }
+  ]
+ },
+ {
+  "id": "452952",
+  "fichier": "site_452952.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.858,
+    "box": [
+     0.6199,
+     0.5243,
+     0.1833,
+     0.1829
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.464,
+    "box": [
+     0.8053,
+     0.6155,
+     0.0896,
+     0.0777
+    ]
+   }
+  ]
+ },
+ {
+  "id": "454493",
+  "fichier": "site_454493.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.776,
+    "box": [
+     0.0641,
+     0.3365,
+     0.126,
+     0.2534
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.714,
+    "box": [
+     0.595,
+     0.3963,
+     0.0663,
+     0.0773
+    ]
+   }
+  ]
+ },
+ {
+  "id": "466880",
+  "fichier": "site_466880.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.638,
+    "box": [
+     0.5014,
+     0.5988,
+     0.1548,
+     0.1103
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.408,
+    "box": [
+     0.5025,
+     0.5994,
+     0.1538,
+     0.116
+    ]
+   }
+  ]
+ },
+ {
+  "id": "473231",
+  "fichier": "site_473231.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.878,
+    "box": [
+     0.6308,
+     0.5256,
+     0.0892,
+     0.0461
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.817,
+    "box": [
+     0.4881,
+     0.5973,
+     0.1268,
+     0.0978
+    ]
+   }
+  ]
+ },
+ {
+  "id": "473995",
+  "fichier": "site_473995.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.536,
+    "box": [
+     0.151,
+     0.5648,
+     0.0707,
+     0.0652
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.474,
+    "box": [
+     0.1537,
+     0.5633,
+     0.0623,
+     0.0586
+    ]
+   }
+  ]
+ },
+ {
+  "id": "473997",
+  "fichier": "site_473997.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.814,
+    "box": [
+     0.4335,
+     0.0954,
+     0.1343,
+     0.0847
+    ]
+   }
+  ]
+ },
+ {
+  "id": "474007",
+  "fichier": "site_474007.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.806,
+    "box": [
+     0.4136,
+     0.3372,
+     0.2551,
+     0.1791
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.794,
+    "box": [
+     0.7216,
+     0.4374,
+     0.2984,
+     0.2142
+    ]
+   }
+  ]
+ },
+ {
+  "id": "475603",
+  "fichier": "site_475603.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "476137",
+  "fichier": "site_476137.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.309,
+    "box": [
+     0.9401,
+     0.2904,
+     0.0315,
+     0.0251
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.252,
+    "box": [
+     0.5416,
+     0.1601,
+     0.0236,
+     0.0245
+    ]
+   }
+  ]
+ },
+ {
+  "id": "484048",
+  "fichier": "site_484048.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.925,
+    "box": [
+     0.4913,
+     0.5413,
+     0.1855,
+     0.1663
+    ]
+   }
+  ]
+ },
+ {
+  "id": "484078",
+  "fichier": "site_484078.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.744,
+    "box": [
+     0.4433,
+     0.2279,
+     0.1942,
+     0.1522
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.652,
+    "box": [
+     0.3864,
+     0.4031,
+     0.164,
+     0.1085
+    ]
+   }
+  ]
+ },
+ {
+  "id": "486106",
+  "fichier": "site_486106.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.688,
+    "box": [
+     0.6591,
+     0.8636,
+     0.0769,
+     0.0541
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.481,
+    "box": [
+     0.1223,
+     0.053,
+     0.1361,
+     0.0976
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.284,
+    "box": [
+     0.8592,
+     0.0538,
+     0.1274,
+     0.0948
+    ]
+   }
+  ]
+ },
+ {
+  "id": "492925",
+  "fichier": "site_492925.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.363,
+    "box": [
+     0.2714,
+     0.4862,
+     0.3048,
+     0.1615
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.251,
+    "box": [
+     0.9539,
+     0.6194,
+     0.069,
+     0.063
+    ]
+   }
+  ]
+ },
+ {
+  "id": "501234",
+  "fichier": "site_501234.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.677,
+    "box": [
+     0.5867,
+     0.4919,
+     0.0433,
+     0.0285
+    ]
+   }
+  ]
+ },
+ {
+  "id": "516156",
+  "fichier": "site_516156.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.806,
+    "box": [
+     0.5812,
+     0.6303,
+     0.1264,
+     0.0892
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.711,
+    "box": [
+     0.4955,
+     0.6916,
+     0.1322,
+     0.1048
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.401,
+    "box": [
+     0.5808,
+     0.6358,
+     0.0974,
+     0.0773
+    ]
+   }
+  ]
+ },
+ {
+  "id": "517475",
+  "fichier": "site_517475.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.733,
+    "box": [
+     0.4721,
+     0.6308,
+     0.0902,
+     0.0846
+    ]
+   }
+  ]
+ },
+ {
+  "id": "522217",
+  "fichier": "site_522217.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "522250",
+  "fichier": "site_522250.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.628,
+    "box": [
+     0.3888,
+     0.6187,
+     0.1345,
+     0.0744
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.601,
+    "box": [
+     0.5818,
+     0.5272,
+     0.1585,
+     0.0812
+    ]
+   }
+  ]
+ },
+ {
+  "id": "522305",
+  "fichier": "site_522305.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.74,
+    "box": [
+     0.6126,
+     0.3638,
+     0.1765,
+     0.1198
+    ]
+   }
+  ]
+ },
+ {
+  "id": "522347",
+  "fichier": "site_522347.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.896,
+    "box": [
+     0.5472,
+     0.492,
+     0.1891,
+     0.101
+    ]
+   }
+  ]
+ },
+ {
+  "id": "526195",
+  "fichier": "site_526195.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.497,
+    "box": [
+     0.3656,
+     0.4739,
+     0.0843,
+     0.0758
+    ]
+   }
+  ]
+ },
+ {
+  "id": "532210",
+  "fichier": "site_532210.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.535,
+    "box": [
+     0.5159,
+     0.6222,
+     0.0738,
+     0.0407
+    ]
+   }
+  ]
+ },
+ {
+  "id": "540284",
+  "fichier": "site_540284.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.716,
+    "box": [
+     0.5453,
+     0.6024,
+     0.0896,
+     0.1341
+    ]
+   }
+  ]
+ },
+ {
+  "id": "566718",
+  "fichier": "site_566718.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.425,
+    "box": [
+     0.6978,
+     0.3362,
+     0.0419,
+     0.0295
+    ]
+   }
+  ]
+ },
+ {
+  "id": "579239",
+  "fichier": "site_579239.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.781,
+    "box": [
+     0.8532,
+     0.3959,
+     0.0873,
+     0.0709
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.729,
+    "box": [
+     0.6477,
+     0.4364,
+     0.0995,
+     0.052
+    ]
+   }
+  ]
+ },
+ {
+  "id": "581840",
+  "fichier": "site_581840.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.79,
+    "box": [
+     0.4424,
+     0.5259,
+     0.0651,
+     0.0788
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.707,
+    "box": [
+     0.4403,
+     0.4519,
+     0.0866,
+     0.0557
+    ]
+   }
+  ]
+ },
+ {
+  "id": "59733",
+  "fichier": "site_59733.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "602268",
+  "fichier": "site_602268.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.754,
+    "box": [
+     0.4279,
+     0.4304,
+     0.1882,
+     0.1913
+    ]
+   }
+  ]
+ },
+ {
+  "id": "637848",
+  "fichier": "site_637848.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.773,
+    "box": [
+     0.4574,
+     0.6162,
+     0.1916,
+     0.0804
+    ]
+   }
+  ]
+ },
+ {
+  "id": "657282",
+  "fichier": "site_657282.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.77,
+    "box": [
+     0.5766,
+     0.2683,
+     0.1317,
+     0.1027
+    ]
+   }
+  ]
+ },
+ {
+  "id": "671290",
+  "fichier": "site_671290.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.727,
+    "box": [
+     0.4212,
+     0.6737,
+     0.0597,
+     0.075
+    ]
+   }
+  ]
+ },
+ {
+  "id": "673994",
+  "fichier": "site_673994.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "673996",
+  "fichier": "site_673996.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "681581",
+  "fichier": "site_681581.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.805,
+    "box": [
+     0.4378,
+     0.5478,
+     0.1451,
+     0.1134
+    ]
+   }
+  ]
+ },
+ {
+  "id": "691277",
+  "fichier": "site_691277.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.267,
+    "box": [
+     0.2774,
+     0.3239,
+     0.2923,
+     0.3102
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713434",
+  "fichier": "site_713434.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.772,
+    "box": [
+     0.8234,
+     0.3875,
+     0.1823,
+     0.1375
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713436",
+  "fichier": "site_713436.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.747,
+    "box": [
+     0.7026,
+     0.2233,
+     0.121,
+     0.0855
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713440",
+  "fichier": "site_713440.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.761,
+    "box": [
+     0.4724,
+     0.5896,
+     0.1642,
+     0.122
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.473,
+    "box": [
+     0.6135,
+     0.5671,
+     0.1058,
+     0.0759
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.396,
+    "box": [
+     0.614,
+     0.5672,
+     0.1054,
+     0.077
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713444",
+  "fichier": "site_713444.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.749,
+    "box": [
+     0.5403,
+     0.3268,
+     0.2634,
+     0.1663
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713452",
+  "fichier": "site_713452.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.844,
+    "box": [
+     0.3754,
+     0.336,
+     0.1568,
+     0.1405
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713454",
+  "fichier": "site_713454.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.867,
+    "box": [
+     0.4733,
+     0.6296,
+     0.112,
+     0.0705
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713462",
+  "fichier": "site_713462.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.558,
+    "box": [
+     0.6774,
+     0.4879,
+     0.0354,
+     0.0325
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713464",
+  "fichier": "site_713464.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "715397",
+  "fichier": "site_715397.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.728,
+    "box": [
+     0.5777,
+     0.3482,
+     0.0536,
+     0.0412
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.67,
+    "box": [
+     0.2744,
+     0.3275,
+     0.0538,
+     0.0405
+    ]
+   }
+  ]
+ },
+ {
+  "id": "718679",
+  "fichier": "site_718679.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.783,
+    "box": [
+     0.5995,
+     0.5888,
+     0.0884,
+     0.0656
+    ]
+   }
+  ]
+ },
+ {
+  "id": "731082",
+  "fichier": "site_731082.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "740209",
+  "fichier": "site_740209.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.821,
+    "box": [
+     0.3427,
+     0.6473,
+     0.2385,
+     0.1671
+    ]
+   }
+  ]
+ },
+ {
+  "id": "741338",
+  "fichier": "site_741338.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.925,
+    "box": [
+     0.4698,
+     0.5814,
+     0.1079,
+     0.0826
+    ]
+   }
+  ]
+ },
+ {
+  "id": "741519",
+  "fichier": "site_741519.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.853,
+    "box": [
+     0.3793,
+     0.4925,
+     0.1042,
+     0.0772
+    ]
+   }
+  ]
+ },
+ {
+  "id": "746662",
+  "fichier": "site_746662.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "766545",
+  "fichier": "site_766545.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.759,
+    "box": [
+     0.428,
+     0.5071,
+     0.0826,
+     0.0472
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778499",
+  "fichier": "site_778499.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.621,
+    "box": [
+     0.5726,
+     0.6564,
+     0.0655,
+     0.047
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778507",
+  "fichier": "site_778507.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.801,
+    "box": [
+     0.6417,
+     0.4549,
+     0.1301,
+     0.0874
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.317,
+    "box": [
+     0.7771,
+     0.0281,
+     0.1504,
+     0.0562
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778940",
+  "fichier": "site_778940.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.621,
+    "box": [
+     0.5848,
+     0.4386,
+     0.0857,
+     0.0835
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778951",
+  "fichier": "site_778951.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.599,
+    "box": [
+     0.583,
+     0.425,
+     0.0679,
+     0.0602
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778975",
+  "fichier": "site_778975.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.809,
+    "box": [
+     0.3852,
+     0.5713,
+     0.143,
+     0.0698
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778977",
+  "fichier": "site_778977.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.76,
+    "box": [
+     0.466,
+     0.4434,
+     0.0599,
+     0.0658
+    ]
+   }
+  ]
+ },
+ {
+  "id": "795827",
+  "fichier": "site_795827.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "799046",
+  "fichier": "site_799046.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.729,
+    "box": [
+     0.5902,
+     0.3605,
+     0.1203,
+     0.1063
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.558,
+    "box": [
+     0.6282,
+     0.4713,
+     0.0861,
+     0.0964
+    ]
+   }
+  ]
+ },
+ {
+  "id": "800935",
+  "fichier": "site_800935.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.512,
+    "box": [
+     0.5164,
+     0.4741,
+     0.0852,
+     0.0668
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.51,
+    "box": [
+     0.5165,
+     0.4738,
+     0.0839,
+     0.065
+    ]
+   }
+  ]
+ },
+ {
+  "id": "800996",
+  "fichier": "site_800996.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.703,
+    "box": [
+     0.3929,
+     0.5221,
+     0.0512,
+     0.04
+    ]
+   }
+  ]
+ },
+ {
+  "id": "829816",
+  "fichier": "site_829816.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.843,
+    "box": [
+     0.5526,
+     0.6051,
+     0.0539,
+     0.042
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.649,
+    "box": [
+     0.8555,
+     0.6246,
+     0.0547,
+     0.0416
+    ]
+   }
+  ]
+ },
+ {
+  "id": "863505",
+  "fichier": "site_863505.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.834,
+    "box": [
+     0.4046,
+     0.5076,
+     0.0562,
+     0.0466
+    ]
+   }
+  ]
+ },
+ {
+  "id": "871554",
+  "fichier": "site_871554.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.767,
+    "box": [
+     0.408,
+     0.5194,
+     0.1636,
+     0.1532
+    ]
+   }
+  ]
+ },
+ {
+  "id": "871793",
+  "fichier": "site_871793.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.904,
+    "box": [
+     0.3322,
+     0.0724,
+     0.1525,
+     0.0819
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.811,
+    "box": [
+     0.5375,
+     0.4238,
+     0.1274,
+     0.0678
+    ]
+   }
+  ]
+ },
+ {
+  "id": "881482",
+  "fichier": "site_881482.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.664,
+    "box": [
+     0.5146,
+     0.3737,
+     0.1699,
+     0.139
+    ]
+   }
+  ]
+ },
+ {
+  "id": "883461",
+  "fichier": "site_883461.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.762,
+    "box": [
+     0.6485,
+     0.1459,
+     0.08,
+     0.0617
+    ]
+   }
+  ]
+ },
+ {
+  "id": "884581",
+  "fichier": "site_884581.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "884608",
+  "fichier": "site_884608.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.255,
+    "box": [
+     0.0354,
+     0.5571,
+     0.0707,
+     0.0827
+    ]
+   }
+  ]
+ },
+ {
+  "id": "884610",
+  "fichier": "site_884610.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "885305",
+  "fichier": "site_885305.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "885892",
+  "fichier": "site_885892.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "886057",
+  "fichier": "site_886057.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "886138",
+  "fichier": "site_886138.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.744,
+    "box": [
+     0.0673,
+     0.2993,
+     0.1046,
+     0.0751
+    ]
+   }
+  ]
+ },
+ {
+  "id": "889411",
+  "fichier": "site_889411.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "890017",
+  "fichier": "site_890017.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.675,
+    "box": [
+     0.2578,
+     0.7914,
+     0.0891,
+     0.0676
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.277,
+    "box": [
+     0.0119,
+     0.35,
+     0.0235,
+     0.0564
+    ]
+   }
+  ]
+ },
+ {
+  "id": "890057",
+  "fichier": "site_890057.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.687,
+    "box": [
+     0.6819,
+     0.413,
+     0.0515,
+     0.1094
+    ]
+   }
+  ]
+ },
+ {
+  "id": "890083",
+  "fichier": "site_890083.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "890089",
+  "fichier": "site_890089.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "895330",
+  "fichier": "site_895330.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "895337",
+  "fichier": "site_895337.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "895342",
+  "fichier": "site_895342.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.73,
+    "box": [
+     0.088,
+     0.9056,
+     0.1279,
+     0.0911
+    ]
+   }
+  ]
+ },
+ {
+  "id": "895613",
+  "fichier": "site_895613.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "895909",
+  "fichier": "site_895909.jpg",
+  "split": "train",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "896385",
+  "fichier": "site_896385.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "896387",
+  "fichier": "site_896387.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.309,
+    "box": [
+     0.0559,
+     0.4312,
+     0.0388,
+     0.0266
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.277,
+    "box": [
+     0.0229,
+     0.5247,
+     0.0458,
+     0.0411
+    ]
+   }
+  ]
+ },
+ {
+  "id": "896736",
+  "fichier": "site_896736.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "batiment",
+    "conf": 0.342,
+    "box": [
+     0.5287,
+     0.567,
+     0.1945,
+     0.2499
+    ]
+   }
+  ]
+ },
+ {
+  "id": "896796",
+  "fichier": "site_896796.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.662,
+    "box": [
+     0.8498,
+     0.4156,
+     0.0898,
+     0.0485
+    ]
+   }
+  ]
+ },
+ {
+  "id": "896863",
+  "fichier": "site_896863.jpg",
+  "split": "train",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.577,
+    "box": [
+     0.7868,
+     0.1286,
+     0.0521,
+     0.0666
+    ]
+   }
+  ]
+ },
+ {
+  "id": "898473",
+  "fichier": "site_898473.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.881,
+    "box": [
+     0.4962,
+     0.7284,
+     0.0446,
+     0.0292
+    ]
+   }
+  ]
+ },
+ {
+  "id": "898484",
+  "fichier": "site_898484.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.602,
+    "box": [
+     0.6804,
+     0.045,
+     0.1205,
+     0.0712
+    ]
+   }
+  ]
+ },
+ {
+  "id": "909049",
+  "fichier": "site_909049.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "911623",
+  "fichier": "site_911623.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.603,
+    "box": [
+     0.0885,
+     0.5303,
+     0.1467,
+     0.0852
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.583,
+    "box": [
+     0.6258,
+     0.5447,
+     0.2156,
+     0.1685
+    ]
+   }
+  ]
+ },
+ {
+  "id": "921720",
+  "fichier": "site_921720.jpg",
+  "split": "train",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "92464",
+  "fichier": "site_92464.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.725,
+    "box": [
+     0.5955,
+     0.5511,
+     0.0812,
+     0.0595
+    ]
+   }
+  ]
+ },
+ {
+  "id": "92476",
+  "fichier": "site_92476.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.844,
+    "box": [
+     0.4322,
+     0.653,
+     0.1346,
+     0.0856
+    ]
+   }
+  ]
+ },
+ {
+  "id": "949274",
+  "fichier": "site_949274.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.503,
+    "box": [
+     0.6683,
+     0.5859,
+     0.2386,
+     0.1676
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.383,
+    "box": [
+     0.662,
+     0.588,
+     0.2441,
+     0.1693
+    ]
+   }
+  ]
+ },
+ {
+  "id": "970907",
+  "fichier": "site_970907.jpg",
+  "split": "train",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.84,
+    "box": [
+     0.5499,
+     0.6931,
+     0.1273,
+     0.067
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1019340",
+  "fichier": "site_1019340.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.514,
+    "box": [
+     0.3787,
+     0.5379,
+     0.0938,
+     0.0703
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1038689",
+  "fichier": "site_1038689.jpg",
+  "split": "validation",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1038693",
+  "fichier": "site_1038693.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.766,
+    "box": [
+     0.3512,
+     0.501,
+     0.1595,
+     0.1444
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1288077",
+  "fichier": "site_1288077.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.796,
+    "box": [
+     0.4498,
+     0.6435,
+     0.099,
+     0.0714
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1472003",
+  "fichier": "site_1472003.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1575336",
+  "fichier": "site_1575336.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1591758",
+  "fichier": "site_1591758.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.665,
+    "box": [
+     0.458,
+     0.5551,
+     0.0632,
+     0.044
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1591779",
+  "fichier": "site_1591779.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.545,
+    "box": [
+     0.3826,
+     0.3954,
+     0.0619,
+     0.0431
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.509,
+    "box": [
+     0.3757,
+     0.3965,
+     0.0844,
+     0.047
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1659799",
+  "fichier": "site_1659799.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.78,
+    "box": [
+     0.6217,
+     0.4818,
+     0.1668,
+     0.1302
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757125",
+  "fichier": "site_1757125.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.776,
+    "box": [
+     0.6246,
+     0.4956,
+     0.13,
+     0.0972
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757129",
+  "fichier": "site_1757129.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.378,
+    "box": [
+     0.4761,
+     0.6357,
+     0.1399,
+     0.1413
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1757964",
+  "fichier": "site_1757964.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.75,
+    "box": [
+     0.6326,
+     0.6191,
+     0.1651,
+     0.1292
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.634,
+    "box": [
+     0.5162,
+     0.4901,
+     0.0793,
+     0.052
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1773153",
+  "fichier": "site_1773153.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.9,
+    "box": [
+     0.2012,
+     0.4423,
+     0.1319,
+     0.0737
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1773179",
+  "fichier": "site_1773179.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.848,
+    "box": [
+     0.5792,
+     0.464,
+     0.0913,
+     0.0827
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1896843",
+  "fichier": "site_1896843.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1919751",
+  "fichier": "site_1919751.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.737,
+    "box": [
+     0.4012,
+     0.5659,
+     0.0602,
+     0.051
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.725,
+    "box": [
+     0.1484,
+     0.776,
+     0.058,
+     0.0644
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2008867",
+  "fichier": "site_2008867.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2014774",
+  "fichier": "site_2014774.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.347,
+    "box": [
+     0.8213,
+     0.5448,
+     0.0313,
+     0.0362
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2108602",
+  "fichier": "site_2108602.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.855,
+    "box": [
+     0.4024,
+     0.3008,
+     0.1041,
+     0.0839
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.853,
+    "box": [
+     0.4809,
+     0.3607,
+     0.1025,
+     0.0776
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2155031",
+  "fichier": "site_2155031.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2279112",
+  "fichier": "site_2279112.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.824,
+    "box": [
+     0.6203,
+     0.3684,
+     0.2416,
+     0.1619
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2425789",
+  "fichier": "site_2425789.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.668,
+    "box": [
+     0.5685,
+     0.3801,
+     0.1244,
+     0.0873
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.507,
+    "box": [
+     0.5476,
+     0.384,
+     0.0858,
+     0.0827
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2482165",
+  "fichier": "site_2482165.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.792,
+    "box": [
+     0.416,
+     0.4646,
+     0.1416,
+     0.0859
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.365,
+    "box": [
+     0.4019,
+     0.4723,
+     0.1113,
+     0.0687
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2509938",
+  "fichier": "site_2509938.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.887,
+    "box": [
+     0.6621,
+     0.416,
+     0.1307,
+     0.1261
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2513355",
+  "fichier": "site_2513355.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.505,
+    "box": [
+     0.5308,
+     0.5203,
+     0.0831,
+     0.0569
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2520198",
+  "fichier": "site_2520198.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.924,
+    "box": [
+     0.4415,
+     0.3689,
+     0.1108,
+     0.0929
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2542825",
+  "fichier": "site_2542825.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.742,
+    "box": [
+     0.4814,
+     0.6421,
+     0.0781,
+     0.047
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2597450",
+  "fichier": "site_2597450.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.718,
+    "box": [
+     0.5877,
+     0.3934,
+     0.1181,
+     0.0908
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.386,
+    "box": [
+     0.5873,
+     0.3952,
+     0.1208,
+     0.0902
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2641456",
+  "fichier": "site_2641456.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2673436",
+  "fichier": "site_2673436.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.302,
+    "box": [
+     0.5522,
+     0.4378,
+     0.1912,
+     0.1192
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.264,
+    "box": [
+     0.5953,
+     0.413,
+     0.1022,
+     0.071
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2780958",
+  "fichier": "site_2780958.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.69,
+    "box": [
+     0.4761,
+     0.5777,
+     0.0844,
+     0.0536
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2873429",
+  "fichier": "site_2873429.jpg",
+  "split": "validation",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2879462",
+  "fichier": "site_2879462.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2890762",
+  "fichier": "site_2890762.jpg",
+  "split": "validation",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.603,
+    "box": [
+     0.3064,
+     0.638,
+     0.1217,
+     0.0592
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.488,
+    "box": [
+     0.6051,
+     0.7811,
+     0.1572,
+     0.1207
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.375,
+    "box": [
+     0.4561,
+     0.4725,
+     0.0745,
+     0.0532
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2900140",
+  "fichier": "site_2900140.jpg",
+  "split": "validation",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.66,
+    "box": [
+     0.2461,
+     0.3586,
+     0.0534,
+     0.1027
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2909562",
+  "fichier": "site_2909562.jpg",
+  "split": "validation",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.634,
+    "box": [
+     0.4952,
+     0.5556,
+     0.0756,
+     0.0548
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.301,
+    "box": [
+     0.4932,
+     0.5576,
+     0.0825,
+     0.057
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2931388",
+  "fichier": "site_2931388.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.628,
+    "box": [
+     0.5164,
+     0.4469,
+     0.0955,
+     0.112
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3052673",
+  "fichier": "site_3052673.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.288,
+    "box": [
+     0.6551,
+     0.4562,
+     0.1012,
+     0.0725
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3054180",
+  "fichier": "site_3054180.jpg",
+  "split": "validation",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "307221",
+  "fichier": "site_307221.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.671,
+    "box": [
+     0.4393,
+     0.4279,
+     0.0759,
+     0.0659
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3292193",
+  "fichier": "site_3292193.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "449867",
+  "fichier": "site_449867.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.804,
+    "box": [
+     0.0587,
+     0.6175,
+     0.1173,
+     0.109
+    ]
+   }
+  ]
+ },
+ {
+  "id": "466757",
+  "fichier": "site_466757.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.79,
+    "box": [
+     0.5753,
+     0.3956,
+     0.0912,
+     0.0716
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.77,
+    "box": [
+     0.3716,
+     0.4366,
+     0.1007,
+     0.0512
+    ]
+   }
+  ]
+ },
+ {
+  "id": "474001",
+  "fichier": "site_474001.jpg",
+  "split": "validation",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "474009",
+  "fichier": "site_474009.jpg",
+  "split": "validation",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.354,
+    "box": [
+     0.24,
+     0.0529,
+     0.0293,
+     0.0197
+    ]
+   }
+  ]
+ },
+ {
+  "id": "476143",
+  "fichier": "site_476143.jpg",
+  "split": "validation",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.309,
+    "box": [
+     0.7024,
+     0.4218,
+     0.1219,
+     0.0635
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.253,
+    "box": [
+     0.6939,
+     0.4179,
+     0.0886,
+     0.0619
+    ]
+   }
+  ]
+ },
+ {
+  "id": "476288",
+  "fichier": "site_476288.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.348,
+    "box": [
+     0.8397,
+     0.7733,
+     0.0603,
+     0.08
+    ]
+   }
+  ]
+ },
+ {
+  "id": "484130",
+  "fichier": "site_484130.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "484957",
+  "fichier": "site_484957.jpg",
+  "split": "validation",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "517058",
+  "fichier": "site_517058.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "536406",
+  "fichier": "site_536406.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.797,
+    "box": [
+     0.3921,
+     0.3942,
+     0.1834,
+     0.0825
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.352,
+    "box": [
+     0.3251,
+     0.2952,
+     0.0238,
+     0.0204
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.252,
+    "box": [
+     0.4264,
+     0.3903,
+     0.109,
+     0.0793
+    ]
+   }
+  ]
+ },
+ {
+  "id": "593772",
+  "fichier": "site_593772.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.457,
+    "box": [
+     0.6911,
+     0.5167,
+     0.0472,
+     0.0272
+    ]
+   }
+  ]
+ },
+ {
+  "id": "673737",
+  "fichier": "site_673737.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.897,
+    "box": [
+     0.3196,
+     0.6313,
+     0.1238,
+     0.0916
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713458",
+  "fichier": "site_713458.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "719048",
+  "fichier": "site_719048.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.832,
+    "box": [
+     0.6679,
+     0.6344,
+     0.1154,
+     0.0874
+    ]
+   }
+  ]
+ },
+ {
+  "id": "731104",
+  "fichier": "site_731104.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "734289",
+  "fichier": "site_734289.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "760765",
+  "fichier": "site_760765.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.687,
+    "box": [
+     0.4705,
+     0.5636,
+     0.1252,
+     0.1281
+    ]
+   },
+   {
+    "classe": "silo",
+    "conf": 0.685,
+    "box": [
+     0.4716,
+     0.5622,
+     0.1254,
+     0.1274
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778521",
+  "fichier": "site_778521.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.902,
+    "box": [
+     0.4475,
+     0.4716,
+     0.115,
+     0.0882
+    ]
+   }
+  ]
+ },
+ {
+  "id": "778938",
+  "fichier": "site_778938.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "871556",
+  "fichier": "site_871556.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.829,
+    "box": [
+     0.7396,
+     0.3712,
+     0.1305,
+     0.0607
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.659,
+    "box": [
+     0.5393,
+     0.5022,
+     0.1164,
+     0.0888
+    ]
+   }
+  ]
+ },
+ {
+  "id": "896393",
+  "fichier": "site_896393.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.251,
+    "box": [
+     0.0265,
+     0.4566,
+     0.0529,
+     0.0513
+    ]
+   }
+  ]
+ },
+ {
+  "id": "909051",
+  "fichier": "site_909051.jpg",
+  "split": "validation",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "969946",
+  "fichier": "site_969946.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.774,
+    "box": [
+     0.4158,
+     0.5756,
+     0.0938,
+     0.0903
+    ]
+   }
+  ]
+ },
+ {
+  "id": "989700",
+  "fichier": "site_989700.jpg",
+  "split": "validation",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.855,
+    "box": [
+     0.6109,
+     0.375,
+     0.1173,
+     0.0822
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1238039",
+  "fichier": "site_1238039.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.775,
+    "box": [
+     0.0638,
+     0.6156,
+     0.1256,
+     0.2483
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.718,
+    "box": [
+     0.5965,
+     0.6734,
+     0.067,
+     0.0734
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1254723",
+  "fichier": "site_1254723.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1272394",
+  "fichier": "site_1272394.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.33,
+    "box": [
+     0.9868,
+     0.7498,
+     0.0264,
+     0.0452
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1272398",
+  "fichier": "site_1272398.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1273073",
+  "fichier": "site_1273073.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "1274345",
+  "fichier": "site_1274345.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "1286716",
+  "fichier": "site_1286716.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.686,
+    "box": [
+     0.4797,
+     0.4464,
+     0.0825,
+     0.0665
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1598313",
+  "fichier": "site_1598313.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.779,
+    "box": [
+     0.3656,
+     0.5257,
+     0.1769,
+     0.1374
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1610328",
+  "fichier": "site_1610328.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.607,
+    "box": [
+     0.4343,
+     0.4198,
+     0.1007,
+     0.1139
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1657771",
+  "fichier": "site_1657771.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.84,
+    "box": [
+     0.5499,
+     0.6931,
+     0.1273,
+     0.067
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1659803",
+  "fichier": "site_1659803.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.698,
+    "box": [
+     0.4047,
+     0.4847,
+     0.1925,
+     0.1601
+    ]
+   }
+  ]
+ },
+ {
+  "id": "1773100",
+  "fichier": "site_1773100.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.451,
+    "box": [
+     0.4473,
+     0.4435,
+     0.1554,
+     0.116
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.264,
+    "box": [
+     0.9707,
+     0.3484,
+     0.052,
+     0.0535
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2008869",
+  "fichier": "site_2008869.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2014778",
+  "fichier": "site_2014778.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "2042938",
+  "fichier": "site_2042938.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.659,
+    "box": [
+     0.6413,
+     0.5948,
+     0.1302,
+     0.098
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2628398",
+  "fichier": "site_2628398.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.827,
+    "box": [
+     0.3618,
+     0.5745,
+     0.0975,
+     0.0964
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2755712",
+  "fichier": "site_2755712.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.854,
+    "box": [
+     0.6081,
+     0.7046,
+     0.1701,
+     0.091
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2762070",
+  "fichier": "site_2762070.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2773091",
+  "fichier": "site_2773091.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "2844351",
+  "fichier": "site_2844351.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.838,
+    "box": [
+     0.4261,
+     0.38,
+     0.1462,
+     0.1028
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2854489",
+  "fichier": "site_2854489.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.598,
+    "box": [
+     0.3777,
+     0.3888,
+     0.1199,
+     0.0692
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2903215",
+  "fichier": "site_2903215.jpg",
+  "split": "test",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.767,
+    "box": [
+     0.457,
+     0.5035,
+     0.1277,
+     0.0556
+    ]
+   },
+   {
+    "classe": "pylone",
+    "conf": 0.629,
+    "box": [
+     0.446,
+     0.5021,
+     0.0937,
+     0.0519
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2958959",
+  "fichier": "site_2958959.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.612,
+    "box": [
+     0.3974,
+     0.5943,
+     0.0786,
+     0.0515
+    ]
+   }
+  ]
+ },
+ {
+  "id": "2971844",
+  "fichier": "site_2971844.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.822,
+    "box": [
+     0.5298,
+     0.3514,
+     0.0981,
+     0.0906
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.666,
+    "box": [
+     0.0805,
+     0.5085,
+     0.1593,
+     0.1241
+    ]
+   }
+  ]
+ },
+ {
+  "id": "3006722",
+  "fichier": "site_3006722.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "3016187",
+  "fichier": "site_3016187.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "3026325",
+  "fichier": "site_3026325.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "3124805",
+  "fichier": "site_3124805.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "mat",
+    "conf": 0.717,
+    "box": [
+     0.5433,
+     0.4937,
+     0.0487,
+     0.0442
+    ]
+   }
+  ]
+ },
+ {
+  "id": "314083",
+  "fichier": "site_314083.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "320262",
+  "fichier": "site_320262.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.631,
+    "box": [
+     0.3445,
+     0.4129,
+     0.0861,
+     0.0731
+    ]
+   }
+  ]
+ },
+ {
+  "id": "480757",
+  "fichier": "site_480757.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.839,
+    "box": [
+     0.3881,
+     0.4887,
+     0.0996,
+     0.0736
+    ]
+   }
+  ]
+ },
+ {
+  "id": "541454",
+  "fichier": "site_541454.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "568095",
+  "fichier": "site_568095.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.919,
+    "box": [
+     0.3392,
+     0.3838,
+     0.0913,
+     0.0872
+    ]
+   }
+  ]
+ },
+ {
+  "id": "656484",
+  "fichier": "site_656484.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.863,
+    "box": [
+     0.5229,
+     0.6519,
+     0.1019,
+     0.082
+    ]
+   },
+   {
+    "classe": "chateau_eau",
+    "conf": 0.593,
+    "box": [
+     0.684,
+     0.505,
+     0.0865,
+     0.0679
+    ]
+   }
+  ]
+ },
+ {
+  "id": "704152",
+  "fichier": "site_704152.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.795,
+    "box": [
+     0.4319,
+     0.6473,
+     0.1138,
+     0.1176
+    ]
+   }
+  ]
+ },
+ {
+  "id": "713432",
+  "fichier": "site_713432.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "742099",
+  "fichier": "site_742099.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "chateau_eau",
+    "conf": 0.423,
+    "box": [
+     0.5879,
+     0.5123,
+     0.1217,
+     0.1221
+    ]
+   }
+  ]
+ },
+ {
+  "id": "863511",
+  "fichier": "site_863511.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "885284",
+  "fichier": "site_885284.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "886053",
+  "fichier": "site_886053.jpg",
+  "split": "test",
+  "statut": "fausse",
+  "detections": [
+   {
+    "classe": "pylone",
+    "conf": 0.43,
+    "box": [
+     0.7216,
+     0.0578,
+     0.0704,
+     0.0642
+    ]
+   },
+   {
+    "classe": "mat",
+    "conf": 0.395,
+    "box": [
+     0.4119,
+     0.1636,
+     0.0408,
+     0.0286
+    ]
+   }
+  ]
+ },
+ {
+  "id": "895615",
+  "fichier": "site_895615.jpg",
+  "split": "test",
+  "statut": "rate",
+  "detections": []
+ },
+ {
+  "id": "895617",
+  "fichier": "site_895617.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "896381",
+  "fichier": "site_896381.jpg",
+  "split": "test",
+  "statut": "vide",
+  "detections": []
+ },
+ {
+  "id": "924541",
+  "fichier": "site_924541.jpg",
+  "split": "test",
+  "statut": "ok",
+  "detections": [
+   {
+    "classe": "silo",
+    "conf": 0.456,
+    "box": [
+     0.8067,
+     0.5165,
+     0.1422,
+     0.1183
+    ]
+   }
+  ]
+ }
+]
